@@ -34,4 +34,27 @@
 - manage resource groups
 - manage subscriptions
 
+### Implement and manage storage (15–20%)
 
+#### Secure storage
+- configure network access to storage accounts
+- create and configure storage accounts
+- generate shared access signature (SAS) tokens
+- manage access keys
+- configure Azure AD authentication for a storage account
+- configure access to Azure Files
+
+#### Manage storage
+- export from Azure job
+- import into Azure job
+- install and use Azure Storage Explorer
+- copy data by using AZCopy
+- implement Azure Storage replication
+- configure blob object replication
+
+#### Configure Azure files and Azure Blob Storage
+- create an Azure file share
+- create and configure Azure File Sync service
+- configure Azure Blob Storage
+- configure storage tiers
+- configure blob lifecycle management
